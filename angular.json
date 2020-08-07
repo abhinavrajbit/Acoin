@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "acoin"
+    }
+  },
+  "defaultProject": "acoin",
+  "cli": {
+    "analytics": "2a164e7a-0c60-4ecf-afb9-833f38676f39"
+  }
 }
